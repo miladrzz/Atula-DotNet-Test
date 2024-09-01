@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - AtulaTest</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-pzjw8f+ua7Kw1TIq6FN7GpRiwT+T2w4uFJOGq4uj73ylN/n73M3oucmDA6j6gD3y" crossorigin="anonymous">
+</head>
+<body>
+    <header>
+        <partial name="_Navbar" />
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popperjs/core@2.5.2/dist/umd/popper.min.js" integrity="sha384-ZhJp1Z70ADW/37i7D93pgV+R5Z1DEd9gIsM1Z2WNY5xEjRYFLJfBVDyvL4tmI3rM" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgEp13gxtAnSk1rB7jdjfj6Pv5I6Z9r2Dlc/q+sZh5CTGspx6PH" crossorigin="anonymous"></script>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

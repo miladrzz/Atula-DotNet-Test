@@ -1,0 +1,103 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AtulaDotNetTest
+build_property.RootNamespace = AtulaDotNetTest
+build_property.ProjectDir = C:\Users\milad\source\repos\AtulaDotNetTest\AtulaDotNetTest\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\milad\source\repos\AtulaDotNetTest\AtulaDotNetTest
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/milad/source/repos/AtulaDotNetTest/AtulaDotNetTest/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/milad/source/repos/AtulaDotNetTest/AtulaDotNetTest/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/milad/source/repos/AtulaDotNetTest/AtulaDotNetTest/Pages/CategoryCRUD/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlDUlVEXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/milad/source/repos/AtulaDotNetTest/AtulaDotNetTest/Pages/CategoryCRUD/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlDUlVEXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/milad/source/repos/AtulaDotNetTest/AtulaDotNetTest/Pages/CategoryCRUD/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlDUlVEXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/milad/source/repos/AtulaDotNetTest/AtulaDotNetTest/Pages/CategoryCRUD/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlDUlVEXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/milad/source/repos/AtulaDotNetTest/AtulaDotNetTest/Pages/CategoryCRUD/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlDUlVEXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/milad/source/repos/AtulaDotNetTest/AtulaDotNetTest/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/milad/source/repos/AtulaDotNetTest/AtulaDotNetTest/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/milad/source/repos/AtulaDotNetTest/AtulaDotNetTest/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/milad/source/repos/AtulaDotNetTest/AtulaDotNetTest/Pages/ProductCRUD/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdENSVURcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/milad/source/repos/AtulaDotNetTest/AtulaDotNetTest/Pages/ProductCRUD/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdENSVURcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/milad/source/repos/AtulaDotNetTest/AtulaDotNetTest/Pages/ProductCRUD/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdENSVURcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/milad/source/repos/AtulaDotNetTest/AtulaDotNetTest/Pages/ProductCRUD/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdENSVURcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/milad/source/repos/AtulaDotNetTest/AtulaDotNetTest/Pages/ProductCRUD/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdENSVURcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/milad/source/repos/AtulaDotNetTest/AtulaDotNetTest/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/milad/source/repos/AtulaDotNetTest/AtulaDotNetTest/Pages/Shared/_NavBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9OYXZCYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/milad/source/repos/AtulaDotNetTest/AtulaDotNetTest/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/milad/source/repos/AtulaDotNetTest/AtulaDotNetTest/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/milad/source/repos/AtulaDotNetTest/AtulaDotNetTest/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/milad/source/repos/AtulaDotNetTest/AtulaDotNetTest/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-pbdehzj5nq
